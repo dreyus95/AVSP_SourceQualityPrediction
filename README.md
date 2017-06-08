@@ -113,7 +113,11 @@ Best results were obtained with following models:
 <a id='improvements'></a>
 1.  Given the fact that we had only 34 features, the first logical thing would be to somehow obtain more features. We deduced that with 
         ~80-100 features we could possibly get to 85%+ accuracy score with our model.
-2.  Search for better models for classification
-3.  Play around with labels, try different rating systems
+        
+2.  Search for better models for classification.
+
+3.  Play around with labels, try different rating systems.
+
 4.  Try regression aswell, the dataset is more oriented to regression due to the domain of features, which makes classification a harder problem for this dataset.
+
 5.  Try and find some nonlinear correlations within features.
